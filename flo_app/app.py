@@ -807,7 +807,7 @@ if __name__ == "__main__":
         query = st.text_input("Enter your query in natural language")
         sub_bt = st.button("Submit")
         if sub_bt:
-            with st.spinner("Thinking...your answer is almost ready."):
+            with st.spinner("Thinking..."):
                 response,mplot = get_answers(query, lgraph)
                 st.subheader("Here is the output of the query")
                 st.write(response)
