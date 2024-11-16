@@ -681,6 +681,7 @@ def get_answers(query, graph):
             ax2.plot(x, yvalues[1]['data'], color='green', label='High - Low')
             ax2.set_ylabel(yvalues[1]['label'], color='green')
             ax2.tick_params(axis='y', labelcolor='green')
+        plt.xticks(rotation='vertical')
         mplot = plt
     elif graph_type is not None and (graph_type == 'pie' or graph_type == 'bar'):
         plt.rcParams['font.size'] = 5
