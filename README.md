@@ -26,7 +26,6 @@ Keep the token ready for use...
 #### Step 3: Download and upload app.py and logo.jpg
 *  Download app.py and logo.jp in your local system
 *  Upload both files in colab
-*  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
 </br>
 <img src="https://github.com/user-attachments/assets/4d0f3593-532c-4a96-bd7a-16e86b6c0996" alt="img2" width="300" height="200">  
 </br>
