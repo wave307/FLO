@@ -15,7 +15,7 @@ Keep the token ready for use...
 ![image](https://github.com/user-attachments/assets/ada66257-f1cd-4b79-9db5-80d908571b14))  
 </br>
     
-#### Step 2: (Open AI_Agent_for_Structured_Data.ipynb - Open AI Key will be provided)
+#### Step 2: (Open AI_Agent_for_Structured_Data.ipynb)
 *  Open google colab https://colab.research.google.com/
 *  Select GitHub and enter 'https://github.com/wave307/FLO.git'
 *  Select the notebook (AI_Agent_for_Structured_Data_participants.ipynb) to open it  
@@ -26,6 +26,7 @@ Keep the token ready for use...
 #### Step 3: Download and upload app.py and logo.jpg
 *  Download app.py and logo.jp in your local system
 *  Upload both files in colab
+*  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
 </br>
 <img src="https://github.com/user-attachments/assets/4d0f3593-532c-4a96-bd7a-16e86b6c0996" alt="img2" width="300" height="200">  
 </br>
